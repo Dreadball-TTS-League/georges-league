@@ -49,8 +49,6 @@ NOTE: Items marked with TODO are either not yet supported or a work in progress.
 * use carrots around characters to make them ^super^script
 * use tildes around characters to make them ~sub~script
 
-Changes to try running travis.
-
 // separate two adjacent lists using a line comment (only the leading // is required)
 
 - characters can be escaped using a {backslash}
