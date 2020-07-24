@@ -1,0 +1,41 @@
+= Season 1 Standings
+
+|===
+|Team Name |Team Type |Coach Name |League Points |Team Ranking |Strike Difference |Cheers |Serious Injuries Caused
+
+|Trontek 29ers
+|Human Corp
+|Coach 1
+|0
+|1000
+|0
+|0
+|0
+
+|Greenmoon Smackers
+|Marauder
+|Coach 2
+|0
+|1000
+|0
+|0
+|0
+
+|Midgard Delvers
+|Forge Father
+|Coach 3
+|0
+|1000
+|0
+|0
+|0
+
+|Skittersneak Stealers
+|Veer-myn
+|Coach 4
+|0
+|1000
+|0
+|0
+|0
+|===
