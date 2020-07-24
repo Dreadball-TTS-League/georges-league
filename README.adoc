@@ -5,6 +5,18 @@ A casual Dreadball League to be played online in TableTop Simulator.
 
 == League Rules
 
+* The schedule will be determined ahead of the season.
+  Every team will play every other team twice, once at home and once as visitor.
+
+* Games will be played weekly at a time agreed upon between the players playing the game.
+  The *DreadBall* Discord will be used for communication during a game.
+  Allowances will be made for games to be made up the following week if neccessary.
+  The week begins on Monday.
+
+* Post game advancements will be done with opponent immediately after the played game.
+  Updates to the team roster and standings will be done via pull request to the league site.
+  The opponent will approve the pull request.
+
 == League Differences
 
 === Teams
@@ -15,8 +27,8 @@ A casual Dreadball League to be played online in TableTop Simulator.
 
 ==== Team Draft
 . Coaches determine funds for bidding.
-    New coaches to the league start with 200 MC.
-    Existing coaches that wish to sell their teams between seasons, take half the cash on hand from their existing team and update the team to reflect that.
+  New coaches to the league start with 200 MC.
+  Existing coaches that wish to sell their teams between seasons, take half the cash on hand from their existing team and update the team to reflect that.
 . Coaches submit a blind bid based on their available cash for position in the draft.
 . Coaches choose, in bid order, from the expansion teams and the sold teams from existing coaches.
 . Any remaining money the coaches have is added to their new teams roster, and can be spent immediately.
@@ -42,6 +54,7 @@ A fee will be required to change arenas between seasons.
 ** https://www.manticgames.com/games/uncategorised/dreadball-faq-errata/[FAQ & Errata] (important changes from published rules are contained within)
 ** If you need the League Rules let me know
 * Git
+** https://github.com/Dreadball-TTS-League/georges-league[League Website Repo]
 * AsciiDoc
 ** https://asciidoctor.org[Main Site]
 ** https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[Syntax Reference]
@@ -50,3 +63,4 @@ A fee will be required to change arenas between seasons.
 ** https://steamcommunity.com/sharedfiles/filedetails/?id=2101789056[Main Mod]
 ** https://steamcommunity.com/sharedfiles/filedetails/?id=2103951312[Ultimate Mod]
 ** https://www.dropbox.com/s/ygzhujj1xqbg8gs/Using%20Dreadball%202.docx?dl=0[Directions for using the Mod]
+* https://discord.gg/4XvFYvw[Dreadball Discord]
