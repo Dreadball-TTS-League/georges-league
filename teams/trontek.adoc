@@ -1,0 +1,150 @@
+= Trontek 29ers
+
+*Coach:* _Coach 1_
+
+|===
+|Player Name |Position |Move |Strength |Agility |Speed |Skill |Armour |Abilities |Cost
+
+|Player 1
+|Guard
+|5
+|4
+|4
+|4
+|4
+|4
+|
+|100
+
+|Player 2
+|Guard
+|5
+|4
+|4
+|4
+|4
+|4
+|
+|100
+
+|Player 3
+|Jack
+|5
+|4
+|4
+|4
+|4
+|4
+|
+|80
+
+|Player 4
+|Jack
+|5
+|4
+|4
+|4
+|4
+|4
+|
+|80
+
+|Player 5
+|Jack
+|5
+|4
+|4
+|4
+|4
+|4
+|
+|80
+
+|Player 6
+|Striker
+|5
+|4
+|4
+|4
+|4
+|5
+|
+|95
+
+|Player 7
+|Striker
+|5
+|4
+|4
+|4
+|4
+|5
+|
+|95
+
+|Player 8
+|Striker
+|5
+|4
+|4
+|4
+|4
+|5
+|
+|95
+|===
+
+////
+|Player G
+|Guard
+|5
+|4
+|4
+|4
+|4
+|4
+|
+|100
+
+|Player J
+|Jack
+|5
+|4
+|4
+|4
+|4
+|4
+|
+|80
+
+|Player S
+|Striker
+|5
+|4
+|4
+|4
+|4
+|5
+|
+|95
+
+|Lucky Logan
+|Jack (C)
+|5
+|4
+|4
+|4
+|4
+|4
+|Lucky, Fan Favorite
+|205
+////
+
+*DreadBall Cards:* 3 +
+*Coaching Dice:* 1 +
+*Coaching Staff:* 0 +
+*Cheerleaders:* 0 +
+*Medi-bot:* 0 +
+*Extra Cash:* 0
+
+*Team Total:* 1000
