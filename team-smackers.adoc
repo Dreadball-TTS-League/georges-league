@@ -1,0 +1,139 @@
+= Greenmoon Smackers
+
+*Coach:* _Coach 2_
+
+|===
+|Player Name |Position |Move |Strength |Agility |Speed |Skill |Armour |Abilities |Cost
+
+|Player 1
+|Guard
+|5
+|3
+|4
+|4
+|5
+|4
+|
+|125
+
+|Player 2
+|Guard
+|5
+|3
+|4
+|4
+|5
+|4
+|
+|125
+
+|Player 3
+|Guard
+|5
+|3
+|4
+|4
+|5
+|4
+|
+|125
+
+|Player 4
+|Jack
+|5
+|5
+|3
+|3
+|4
+|4
+|
+|90
+
+|Player 5
+|Jack
+|5
+|5
+|3
+|3
+|4
+|4
+|
+|90
+
+|Player 6
+|Jack
+|5
+|5
+|3
+|3
+|4
+|4
+|
+|90
+
+|Player 7
+|Jack
+|5
+|5
+|3
+|3
+|4
+|4
+|
+|90
+
+|Player 8
+|Jack
+|5
+|5
+|3
+|3
+|4
+|4
+|
+|90
+|===
+
+////
+|Player G
+|Guard
+|5
+|3
+|4
+|4
+|5
+|4
+|
+|125
+
+|Player J
+|Jack
+|5
+|5
+|3
+|3
+|4
+|4
+|
+|90
+
+|Slippery Joe
+|Striker (C)
+|5
+|5
+|3
+|3
+|4
+|5
+|A Safe Pair of Hands
+|230
+////
+
+*DreadBall Cards:* 1 +
+*Coaching Dice:* 2 +
+*Coaching Staff:* 0 +
+*Cheerleaders:* 0 +
+*Medi-bot:* 0 +
+*Extra Cash:* 0
+
+*Team Total:* 1000

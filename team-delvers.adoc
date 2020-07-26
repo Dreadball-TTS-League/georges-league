@@ -1,136 +1,147 @@
-= Greenmoon Smackers
+= Midgard Delvers
 
-*Coach:* _Coach 1_
+*Coach:* _Coach 3_
 
 |===
 |Player Name |Position |Move |Strength |Agility |Speed |Skill |Armour |Abilities |Cost
 
 |Player 1
 |Guard
-|5
+|4
 |3
 |4
-|4
 |5
 |4
+|3
 |
-|125
+|130
 
 |Player 2
 |Guard
-|5
+|4
 |3
 |4
-|4
 |5
 |4
+|3
 |
-|125
+|130
 
 |Player 3
 |Guard
-|5
+|4
 |3
 |4
-|4
 |5
 |4
+|3
 |
-|125
+|130
 
 |Player 4
 |Jack
-|5
-|5
-|3
+|4
 |3
 |4
+|5
 |4
+|3
 |
-|90
+|95
 
 |Player 5
 |Jack
-|5
-|5
-|3
+|4
 |3
 |4
+|5
 |4
+|3
 |
-|90
+|95
 
 |Player 6
 |Jack
-|5
-|5
-|3
+|4
 |3
 |4
+|5
 |4
+|3
 |
-|90
+|95
 
 |Player 7
-|Jack
-|5
-|5
+|Striker
+|4
 |3
-|3
+|4
+|5
 |4
 |4
 |
-|90
+|100
 
 |Player 8
-|Jack
-|5
-|5
+|Striker
+|4
 |3
-|3
+|4
+|5
 |4
 |4
 |
-|90
+|100
 |===
 
 ////
 |Player G
 |Guard
-|5
+|4
 |3
 |4
-|4
 |5
 |4
+|3
 |
-|125
+|130
 
 |Player J
 |Jack
-|5
-|5
+|4
 |3
+|4
+|5
+|4
 |3
+|
+|95
+
+|Player S
+|Striker
+|4
+|3
+|4
+|5
 |4
 |4
 |
-|90
+|100
 
-|Slippery Joe
+|Gorim Ironstone
 |Striker (C)
-|5
-|5
-|3
+|4
 |3
 |4
+|4
+|4
 |5
-|A Safe Pair of Hands
-|230
+|Grizzled, Stubborn
+|210
 ////
 
 *DreadBall Cards:* 1 +
-*Coaching Dice:* 2 +
+*Coaching Dice:* 1 +
 *Coaching Staff:* 0 +
 *Cheerleaders:* 0 +
 *Medi-bot:* 0 +
