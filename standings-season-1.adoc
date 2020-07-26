@@ -3,7 +3,7 @@
 |===
 |Team Name |Team Type |Coach Name |League Points |Team Ranking |Strike Difference |Cheers |Serious Injuries Caused
 
-|<<team-trontek.html#trontek_29ers,Trontek 29ers>>
+|<<team-trontek.adoc#trontek_29ers,Trontek 29ers>>
 |Human Corp
 |Coach 1
 |0
@@ -12,7 +12,7 @@
 |0
 |0
 
-|<<team-smackers.html#greenmoon_smackers,Greenmoon Smackers>>
+|<<team-smackers.adoc#greenmoon_smackers,Greenmoon Smackers>>
 |Marauder
 |Coach 2
 |0
@@ -21,7 +21,7 @@
 |0
 |0
 
-|<<team-delvers.html#midgard_delvers,Midgard Delvers>>
+|<<team-delvers.adoc#midgard_delvers,Midgard Delvers>>
 |Forge Father
 |Coach 3
 |0
@@ -30,7 +30,7 @@
 |0
 |0
 
-|<<team-skittersneak.html#skittersneak_stealers,Skittersneak Stealers>>
+|<<team-skittersneak.adoc#skittersneak_stealers,Skittersneak Stealers>>
 |Veer-myn
 |Coach 4
 |0
@@ -40,4 +40,4 @@
 |0
 |===
 
-<<mvps.html#available_mvps, Available MVPs>>
+<<mvps.adoc#available_mvps, Available MVPs>>
