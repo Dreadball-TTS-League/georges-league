@@ -1,0 +1,139 @@
+= Skittersneak Stealers
+
+*Coach:* _Coach 4_
+
+|===
+|Player Name |Position |Move |Strength |Agility |Speed |Skill |Armour |Abilities |Cost
+
+|Player 1
+|Guard
+|6
+|4
+|4
+|3
+|5
+|4
+|
+|125
+
+|Player 2
+|Guard
+|6
+|4
+|4
+|3
+|5
+|4
+|
+|125
+
+|Player 3
+|Striker
+|6
+|4
+|3
+|3
+|5
+|5
+|
+|100
+
+|Player 4
+|Striker
+|6
+|4
+|3
+|3
+|5
+|5
+|
+|100
+
+|Player 5
+|Striker
+|6
+|4
+|3
+|3
+|5
+|5
+|
+|100
+
+|Player 6
+|Striker
+|6
+|4
+|3
+|3
+|5
+|5
+|
+|100
+
+|Player 7
+|Striker
+|6
+|4
+|3
+|3
+|5
+|5
+|
+|100
+
+|Player 8
+|Striker
+|6
+|4
+|3
+|3
+|5
+|5
+|
+|100
+|===
+
+////
+|Player G
+|Guard
+|6
+|4
+|4
+|3
+|5
+|4
+|
+|125
+
+|Player S
+|Striker
+|6
+|4
+|3
+|3
+|5
+|5
+|
+|100
+
+|Reek 'Payback' Rolat
+|Guard (C)
+|6
+|3
+|3
+|4
+|5
+|4
+|Can't Feel a Thing
+|280
+////
+
+*DreadBall Cards:* 0 +
+*Coaching Dice:* 3 +
+*Coaching Staff:* 0 +
+*Cheerleaders:* 0 +
+*Medi-bot:* 0 +
+*Extra Cash:* 0
+
+*Team Total:* 1000

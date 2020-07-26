@@ -30,7 +30,7 @@
 |0
 |0
 
-|Skittersneak Stealers
+|<<team-skittersneak.html#skittersneak-stealers,Skittersneak Stealers>>
 |Veer-myn
 |Coach 4
 |0
