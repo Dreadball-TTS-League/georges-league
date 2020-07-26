@@ -20,7 +20,7 @@ A casual Dreadball League to be played online in TableTop Simulator.
 == League Differences
 
 === Teams
-* Teams need to be unique within the league and will be assigned via <<team-draft, Team Draft>>
+* Teams need to be unique within the league and will be assigned via <<team_draft, Team Draft>>
 * Teams will be added to the league in roughly the original *Dreadball* Season order
 ** _The Red Planets_ and _Renton Rejects_ will be subbed in for the _Kovoss Kryptics_ and _Ro-Tek Brutes_
 * Teams will continue to exist between seasons without resetting.

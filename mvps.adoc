@@ -1,0 +1,38 @@
+= Available MVPs
+
+|===
+|Player Name |Position |Move |Strength |Agility |Speed |Skill |Armour |Abilities |Cost
+
+|Buzzcut
+|Guard
+|6
+|4
+|3
+|4
+|4
+|5
+|Pummel, Threatening, Crowd Puller
+|115
+
+|Number 88
+|Jack
+|8
+|5
+|3
+|2
+|4
+|4
+|Acrobatic, Martial Artist, Crowd Puller
+|140
+
+|The Enforcer
+|Guard
+|7
+|3
+|4
+|4
+|4
+|3
+|Backflip, Jump, Crowd Puller
+|190
+|===
