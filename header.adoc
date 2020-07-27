@@ -1,6 +1,6 @@
 [cols="3*^", wdith="100%", options="noheader"]
 |===
-|<<index.html,League Rules>>
+|<<index.adoc#georges_tabletop_simulator_dreadball_league,League Rules>>
 |<<standings-season-1.adoc#season_1_standings,Standings>>
 |<<schedule-season-1.adoc#season_1_schedule,Schedule>>
 |===
