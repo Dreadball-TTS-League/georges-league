@@ -1,6 +1,8 @@
 = Season 1 Schedule
 :toc: left
 
+include::header.adoc[]
+
 == Week 1 - ??Aug20-??Aug20
 |===
 |Home |Visitor |Winner |Point Differential

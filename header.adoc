@@ -1,0 +1,6 @@
+[cols="3*^", wdith="100%", options="noheader"]
+|===
+|<<index.html,League Rules>>
+|<<standings-season-1.adoc#season_1_standings,Standings>>
+|<<schedule-season-1.adoc#season_1_schedule,Schedule>>
+|===

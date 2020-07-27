@@ -1,6 +1,8 @@
 = George's TableTop Simulator Dreadball League
 :toc: left
 
+include::header.adoc[]
+
 A casual Dreadball League to be played online in TableTop Simulator.
 
 == League Rules
