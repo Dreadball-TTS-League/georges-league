@@ -1,5 +1,7 @@
 = Midgard Delvers
 
+include::header.adoc[]
+
 *Coach:* _Coach 3_ +
 *Type:* _Forge Father_
 

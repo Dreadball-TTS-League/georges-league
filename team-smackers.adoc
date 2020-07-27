@@ -1,5 +1,7 @@
 = Greenmoon Smackers
 
+include::header.adoc[]
+
 *Coach:* _Coach 2_ +
 *Type:* _Maurader_
 
