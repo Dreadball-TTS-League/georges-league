@@ -1,7 +1,7 @@
 = Season 1 Schedule
 :toc: left
 
-include::header.adoc[]
+include::includes/header.adoc[]
 
 == Week 1 - ??Aug20-??Aug20
 |===

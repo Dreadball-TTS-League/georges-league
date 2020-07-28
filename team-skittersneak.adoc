@@ -1,6 +1,6 @@
 = Skittersneak Stealers
 
-include::header.adoc[]
+include::includes/header.adoc[]
 
 *Coach:* _Coach 4_ +
 *Type:* _Veer-Myn_

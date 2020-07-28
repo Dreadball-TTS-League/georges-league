@@ -1,7 +1,7 @@
 = George's TableTop Simulator Dreadball League
 :toc: left
 
-include::header.adoc[]
+include::includes/header.adoc[]
 
 A casual Dreadball League to be played online in TableTop Simulator.
 
@@ -18,6 +18,8 @@ A casual Dreadball League to be played online in TableTop Simulator.
 * Post game advancements will be done with opponent immediately after the played game.
   Updates to the team roster and standings will be done via pull request to the league site.
   The opponent will approve the pull request.
+
+* The Event deck will be used for all games.
 
 == League Differences
 

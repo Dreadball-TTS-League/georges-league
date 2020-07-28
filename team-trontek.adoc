@@ -1,6 +1,6 @@
 = Trontek 29ers
 
-include::header.adoc[]
+include::includes/header.adoc[]
 
 *Coach:* _Coach 1_ +
 *Type:* _Human Corp_

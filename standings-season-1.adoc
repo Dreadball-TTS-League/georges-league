@@ -1,6 +1,6 @@
 = Season 1 Standings
 
-include::header.adoc[]
+include::includes/header.adoc[]
 
 |===
 |Team Name |Team Type |Coach Name |League Points |Team Ranking |Strike Difference |Cheers |Serious Injuries Caused
