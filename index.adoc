@@ -46,6 +46,10 @@ A casual Dreadball League to be played online in TableTop Simulator.
 *** Trades can be done anytime between games.
 *** Standard transfer fees apply, if a player has three (four?) or more advancements use the MVP fee.
 * Players can use the generic advancement table, their original teams advancements table, or the table from the team they are currently on.
+* Players that reach maximum advancement will become free agents and join the MVP pool at end of season.
+** They will gain the MVP standard _Crowd Puller_ ability.
+** The team the player was from will treat it as though the player retired minus the retirement fee.
+** The team the player was from has first option to hire the new MVP.
 
 === Home Arena
 In future seasons a team will be able to choose it's home arena.
