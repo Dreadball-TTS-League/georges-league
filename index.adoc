@@ -11,8 +11,8 @@ A casual Dreadball League to be played online in TableTop Simulator.
   Every team will play every other team twice, once at home and once as visitor.
 
 * Games will be played weekly at a time agreed upon between the players playing the game.
-  The *DreadBall* Discord will be used for communication during a game.
-  Allowances will be made for games to be made up the following week if neccessary.
+  The *DreadBall* Discord or Steam will be used for communication during a game.
+  Allowances will be made for games to be made up the following week if necessary.
   The week begins on Monday.
 
 * Post game advancements will be done with opponent immediately after the played game.

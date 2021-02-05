@@ -255,11 +255,9 @@ include::includes/header.adoc[]
 |280
 ////
 
-*DreadBall Cards:* 0 +
-*Coaching Dice:* 3 +
-*Coaching Staff:* 0 +
-*Cheerleaders:* 0 +
-*Medi-bot:* 0 +
-*Extra Cash:* 0
+|===
+|DreadBall Cards |Coaching Dice |Coaching Staff |Cheerleaders |Medi-bot |Extra Cash
+|0               |3             |0              |0            |0        |0
+|===
 
 *Team Total:* 1000
