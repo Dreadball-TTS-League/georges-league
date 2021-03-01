@@ -14,11 +14,11 @@ include::includes/header.adoc[]
 |Guard
 |6
 |4
-|4
+|3
 |3
 |5
 |4
-|
+|Boost
 |125
 |
 2+|Experience
@@ -29,11 +29,11 @@ include::includes/header.adoc[]
 |Guard
 |6
 |4
-|4
+|3
 |3
 |5
 |4
-|
+|Boost
 |125
 |
 2+|Experience
@@ -48,7 +48,7 @@ include::includes/header.adoc[]
 |3
 |5
 |5
-|
+|Boost
 |100
 |
 2+|Experience
@@ -63,7 +63,7 @@ include::includes/header.adoc[]
 |3
 |5
 |5
-|
+|Boost
 |100
 |
 2+|Experience
@@ -78,7 +78,7 @@ include::includes/header.adoc[]
 |3
 |5
 |5
-|
+|Boost
 |100
 |
 2+|Experience
@@ -93,7 +93,7 @@ include::includes/header.adoc[]
 |3
 |5
 |5
-|
+|Boost
 |100
 |
 2+|Experience
@@ -108,7 +108,7 @@ include::includes/header.adoc[]
 |3
 |5
 |5
-|
+|Boost
 |100
 |
 2+|Experience
@@ -123,7 +123,7 @@ include::includes/header.adoc[]
 |3
 |5
 |5
-|
+|Boost
 |100
 |
 2+|Experience
@@ -225,11 +225,11 @@ include::includes/header.adoc[]
 |Guard
 |6
 |4
-|4
+|3
 |3
 |5
 |4
-|
+|Boost
 |125
 
 |Player S
@@ -240,7 +240,7 @@ include::includes/header.adoc[]
 |3
 |5
 |5
-|
+|Boost
 |100
 
 |Reek 'Payback' Rolat
